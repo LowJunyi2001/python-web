@@ -14,6 +14,5 @@
 
   <a>'beautifulsoup4' is a powerful and easy-to-use library for web scraping, and it is widely used by developers for a wide range of tasks. It is compatible with Python     2 and Python 3 and can be easily installed using pip.</a>
 
-<h1 align="center"> Conclusion  </h1>
   <a>Overall, 'beautifulsoup4' is a great tool for web scraping, it is fast and efficient and it provides a lot of functionalities that make it easy to extract data from    webpages and handle different cases of parsing.</a>
 </p> 
